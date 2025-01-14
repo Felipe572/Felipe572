@@ -3,7 +3,7 @@
 ### About
 
 I'm 27 years old, Brazilian, and currently studying web development at [Rocketseat](https://app.rocketseat.com.br/) 
-I have knowledge of HTML5, CSS3 and a little JavaScript, delving into ReactJs and NodeJs frameworks.
+I have knowledge of HTML5, CSS3 and a little JavaScript, I'm delving into fremework ReactJs and NodeJs.
 I know a bit about version control with Git & GitHub.
 I'm looking for internships or volunteer opportunities for web development projects.
 
